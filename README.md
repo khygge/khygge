@@ -4,9 +4,9 @@
 - 🌱 I’m learning full stack web development.
 - 💬 Ask me about music!
 
-<p align="center" >
+<p align="left" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=blaubachs&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
@@ -18,7 +18,7 @@
 
 <!--  -->
 
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaubachs)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaubachs)](https://github.com/anuraghazra/github-readme-stats) -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
