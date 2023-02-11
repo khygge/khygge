@@ -1,6 +1,8 @@
-### Hi👋
+### Hi👋 My name is Ben. 
 
-My name is Ben. 
+- 🔭 I’m currently working on an app called recommend-me and a plating database.
+- 🌱 I’m learning full stack web development.
+- 💬 Ask me about music!
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaubachs)](https://github.com/anuraghazra/github-readme-stats)
 <!--
