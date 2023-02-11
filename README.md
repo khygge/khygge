@@ -4,14 +4,17 @@
 - 🌱 I’m learning full stack web development.
 - 💬 Ask me about music!
 
-<p align="left" >
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/blaubachs?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+<!-- <p align="left" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=blaubachs&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
 
-<br />
+<br /> -->
 
 <!--
 **blaubachs/blaubachs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
