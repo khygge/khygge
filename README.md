@@ -3,12 +3,12 @@
 - 🔭 I’m currently working on an app called recommend-me and a production database.
 - 🌱 I’m learning full stack web development.
 - 💬 Ask me about music!
-<!-- 
+
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 Stats
 
 ![Blaubachs's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaubachs&show_icons=true&theme=radical)
 
-<br /> -->
+
 
 <!--
 **blaubachs/blaubachs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
