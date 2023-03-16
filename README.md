@@ -6,12 +6,7 @@
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 Stats
 
-<p align="left" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=blaubachs&&show_icons=true&theme=radical"/>
-  </a>
-
-</p>
+![Blaubachs's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaubachs&show_icons=true&theme=radical)
 
 <br />
 
