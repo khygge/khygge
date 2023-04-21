@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Ben. 
 
-- 🔭 I’m currently working on an app called recommend-me and a production database.
+- 🔭 I’m currently working on a mobile app called Let's Connect.
 - 🌱 I’m learning full stack web development.
 - 💬 Ask me about music!
 
